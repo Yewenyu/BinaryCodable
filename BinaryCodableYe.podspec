@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'BinaryCodable'
-  s.version          = '1.0.0'
+  s.name             = 'BinaryCodableYe'
+  s.version          = '2.0.3'
   s.summary          = 'A library for binary encoding and decoding in Swift'
   s.description      = <<-DESC
     BinaryCodable provides tools for binary encoding/decoding of Swift types,
